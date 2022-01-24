@@ -944,3 +944,5 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.01.24-16.29.35:169][273]LogEditorViewport: Clicking Background
 [2022.01.24-16.29.35:691][306]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
 [2022.01.24-16.29.35:695][306]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.24-16.38.24:908][388]LogEditorViewport: Clicking Background
+[2022.01.24-16.44.42:950][ 88]LogDirectoryWatcher: A directory notification failed for 'C:/Users/ceroni/Documents/GitHub/Scout/Scout/Saved/Collections/' because it could not be accessed. Aborting watch request...
