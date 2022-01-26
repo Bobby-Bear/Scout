@@ -5,11 +5,6 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "MultiUserClient",
-			"Enabled": true
-<<<<<<< HEAD
-		},
-		{
 			"Name": "Bridge",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
@@ -17,8 +12,6 @@
 				"Mac",
 				"Linux"
 			]
-=======
->>>>>>> parent of a79c799 (Revert "Update Scout.uproject")
 		}
 	]
 }
