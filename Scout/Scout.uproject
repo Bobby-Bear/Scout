@@ -7,6 +7,7 @@
 		{
 			"Name": "MultiUserClient",
 			"Enabled": true
+<<<<<<< HEAD
 		},
 		{
 			"Name": "Bridge",
@@ -16,6 +17,8 @@
 				"Mac",
 				"Linux"
 			]
+=======
+>>>>>>> parent of a79c799 (Revert "Update Scout.uproject")
 		}
 	]
 }
