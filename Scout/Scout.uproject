@@ -5,6 +5,15 @@
 	"Description": "",
 	"Plugins": [
 		{
+			"Name": "Bridge",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		},
+		{
 			"Name": "OculusVR",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
@@ -19,10 +28,6 @@
 				"Win64",
 				"Linux"
 			]
-		},
-		{
-			"Name": "Paper2D",
-			"Enabled": false
 		},
 		{
 			"Name": "AlembicImporter",
