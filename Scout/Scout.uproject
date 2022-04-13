@@ -295,6 +295,18 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "SoundUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioGameplayVolume",
+			"Enabled": true
 		}
 	]
 }
