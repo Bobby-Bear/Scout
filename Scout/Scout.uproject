@@ -308,6 +308,10 @@
 		{
 			"Name": "AudioGameplayVolume",
 			"Enabled": true
+		},
+		{
+			"Name": "GeometryScripting",
+			"Enabled": true
 		}
 	]
 }
