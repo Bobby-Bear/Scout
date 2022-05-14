@@ -312,6 +312,10 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "PanoramicCapture",
+			"Enabled": true
 		}
 	]
 }
